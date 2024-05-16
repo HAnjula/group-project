@@ -4,4 +4,4 @@ CS/2020/056 Faslan A.R.M
 CS/2020/055 Gautham B.K
 CS/2020/004 Perera U.T.A
 
-<h2>live demo : https://group-project-topaz.vercel.app/</h2>
+live demo : https://group-project-topaz.vercel.app/
